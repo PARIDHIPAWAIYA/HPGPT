@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+.env
+# ignore all env files EXCEPT example.env
+*.env
+!example.env
+
+# Editor config
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node/React (if used)
+node_modules/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/

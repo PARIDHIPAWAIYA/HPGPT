@@ -1,0 +1,950 @@
+brand,km_driven,fuel,owner,selling_price
+Maruti,145500,Diesel,First Owner,450000
+Skoda,120000,Diesel,Second Owner,370000
+Honda,140000,Petrol,Third Owner,158000
+Hyundai,127000,Diesel,First Owner,225000
+Maruti,120000,Petrol,First Owner,130000
+Hyundai,45000,Petrol,First Owner,440000
+Maruti,175000,LPG,First Owner,96000
+Maruti,5000,Petrol,Second Owner,45000
+Toyota,90000,Diesel,First Owner,350000
+Ford,169000,Diesel,First Owner,200000
+Renault,68000,Diesel,Second Owner,500000
+Maruti,100000,Petrol,Second Owner,92000
+Maruti,140000,Diesel,Second Owner,280000
+Maruti,80000,Petrol,Second Owner,200000
+Maruti,90000,Petrol,Second Owner,180000
+Mahindra,40000,Petrol,First Owner,400000
+Maruti,70000,Diesel,Second Owner,778000
+Hyundai,53000,Diesel,Second Owner,500000
+Maruti,80000,Petrol,Second Owner,150000
+Hyundai,100000,Diesel,First Owner,680000
+Mahindra,100000,Diesel,Second Owner,174000
+Honda,50000,Diesel,First Owner,950000
+Maruti,40000,Diesel,First Owner,525000
+Maruti,72000,Diesel,First Owner,600000
+Tata,35000,Petrol,First Owner,500000
+Maruti,45000,Petrol,First Owner,575000
+Maruti,28000,Petrol,First Owner,275000
+Chevrolet,70000,Diesel,First Owner,300000
+Maruti,120000,Petrol,First Owner,220000
+Maruti,25000,Petrol,First Owner,254999
+Maruti,70000,Diesel,First Owner,670000
+Fiat,50000,Petrol,Second Owner,70000
+Maruti,35000,Petrol,Second Owner,150000
+Hyundai,2388,Petrol,First Owner,730000
+Maruti,16200,Diesel,First Owner,650000
+Maruti,10000,CNG,Second Owner,330000
+Maruti,15000,Petrol,First Owner,366000
+Hyundai,5000,Petrol,First Owner,1149000
+Datsun,42000,Petrol,First Owner,150000
+Tata,60000,Diesel,Second Owner,425000
+Maruti,76000,Petrol,First Owner,150000
+Jeep,5000,Petrol,First Owner,2100000
+Honda,28900,Petrol,First Owner,925000
+Honda,86300,Petrol,First Owner,425000
+Maruti,23300,Petrol,First Owner,675000
+Maruti,32600,Diesel,First Owner,819999
+Maruti,10300,Petrol,First Owner,390000
+Toyota,77000,Diesel,First Owner,1500000
+Toyota,99000,Diesel,First Owner,700000
+Mercedes-Benz,27800,Diesel,Second Owner,1450000
+Honda,49800,Diesel,First Owner,425000
+Mitsubishi,151000,Diesel,First Owner,1090000
+Honda,54700,Diesel,First Owner,600000
+Maruti,64000,Petrol,First Owner,850000
+Honda,63000,Diesel,First Owner,525000
+Toyota,127700,Diesel,Second Owner,1650000
+Toyota,99000,Diesel,First Owner,950000
+Audi,33900,Diesel,Second Owner,1750000
+Toyota,25000,Petrol,First Owner,1590000
+Audi,50000,Diesel,First Owner,1689999
+Mercedes-Benz,59000,Diesel,First Owner,1425000
+Tata,120000,Diesel,First Owner,265000
+Hyundai,110000,Petrol,Third Owner,190000
+Hyundai,60000,Diesel,First Owner,425000
+Maruti,147000,Diesel,Second Owner,630000
+Ford,25000,Petrol,Third Owner,600000
+Maruti,30000,Petrol,First Owner,650000
+Volkswagen,40000,Diesel,First Owner,540000
+Honda,135000,Diesel,First Owner,630000
+Maruti,30000,Petrol,First Owner,448000
+Volkswagen,80000,Diesel,First Owner,500000
+Maruti,70000,Diesel,First Owner,745000
+Maruti,9850,Diesel,First Owner,1025000
+Hyundai,60000,Petrol,Second Owner,235000
+Maruti,70000,Diesel,First Owner,630000
+Toyota,78000,Diesel,Second Owner,1700000
+Maruti,120000,Diesel,Second Owner,450000
+Maruti,120000,Petrol,Second Owner,450000
+Tata,70000,Diesel,First Owner,50000
+Volkswagen,170000,Diesel,First Owner,450000
+Toyota,140000,Diesel,First Owner,1200000
+Ford,90000,Diesel,First Owner,610000
+BMW,30000,Petrol,Second Owner,2500000
+Maruti,10000,Petrol,First Owner,484999
+Datsun,49000,Petrol,First Owner,275000
+Maruti,32000,Petrol,First Owner,315000
+Maruti,38000,Petrol,First Owner,275000
+Maruti,78000,Diesel,First Owner,475000
+Hyundai,28000,Petrol,First Owner,290000
+Maruti,32000,Petrol,First Owner,280000
+Maruti,44000,LPG,First Owner,225000
+Volkswagen,42000,Petrol,First Owner,455000
+Hyundai,45000,Petrol,Second Owner,351000
+Volkswagen,12000,Petrol,Second Owner,535000
+Maruti,55500,Petrol,First Owner,175000
+Hyundai,61500,Petrol,First Owner,525000
+Maruti,150000,Diesel,First Owner,600000
+Hyundai,72000,Petrol,First Owner,565000
+Maruti,68000,Petrol,Third Owner,120000
+Hyundai,110000,Diesel,First Owner,725000
+Maruti,77000,Petrol,Second Owner,185000
+Tata,100000,Diesel,Second Owner,200000
+Maruti,10000,Petrol,First Owner,615000
+Maruti,100000,Petrol,Third Owner,270000
+Maruti,35000,Petrol,First Owner,610000
+Mahindra,70000,Diesel,Second Owner,625000
+Ford,5000,Petrol,Second Owner,400000
+Hyundai,37800,Petrol,First Owner,866000
+Volkswagen,114000,Petrol,First Owner,700000
+Tata,48000,Petrol,First Owner,300000
+Mahindra,32000,Diesel,First Owner,1700000
+Tata,100000,Diesel,First Owner,375000
+Hyundai,150000,Diesel,Second Owner,522000
+Hyundai,69000,Diesel,First Owner,451999
+Toyota,100000,Petrol,Second Owner,300000
+Maruti,13000,Petrol,First Owner,475000
+Maruti,60000,Diesel,First Owner,780000
+Maruti,40000,Petrol,First Owner,595000
+Maruti,35000,Petrol,First Owner,440000
+Maruti,120000,Diesel,Second Owner,300000
+Nissan,70000,Diesel,Third Owner,400000
+Hyundai,50000,Diesel,First Owner,1140000
+Ford,76139,Diesel,First Owner,850000
+Maruti,175000,Diesel,Fourth & Above Owner,370000
+Renault,25000,Petrol,First Owner,350000
+Maruti,40000,Petrol,Second Owner,360000
+Maruti,65000,Petrol,Fourth & Above Owner,105000
+Maruti,90000,Diesel,Second Owner,625000
+Hyundai,80000,Petrol,Second Owner,135000
+Maruti,110000,Diesel,Second Owner,700000
+Honda,1303,Petrol,First Owner,690000
+Audi,31800,Diesel,First Owner,3975000
+Lexus,20000,Petrol,First Owner,5150000
+Jaguar,45000,Diesel,First Owner,3200000
+Jeep,17000,Petrol,First Owner,4100000
+Land,21000,Diesel,First Owner,4500000
+Mercedes-Benz,37000,Diesel,First Owner,6000000
+BMW,29500,Diesel,First Owner,3790000
+BMW,27000,Diesel,First Owner,2150000
+BMW,7500,Diesel,First Owner,5800000
+Skoda,50000,Petrol,First Owner,1864999
+Mercedes-Benz,35000,Diesel,First Owner,2700000
+MG,19000,Petrol,First Owner,1750000
+Honda,41000,Petrol,First Owner,795000
+Toyota,39000,Petrol,First Owner,625000
+Volvo,22000,Diesel,First Owner,3400000
+Audi,53000,Diesel,First Owner,2650000
+Maruti,40000,Diesel,First Owner,535000
+Mercedes-Benz,47000,Diesel,First Owner,5850000
+BMW,72200,Petrol,Second Owner,975000
+Hyundai,49900,Petrol,First Owner,805000
+Jaguar,9000,Diesel,First Owner,2625000
+Tata,11000,Petrol,First Owner,811000
+Volkswagen,49000,Petrol,First Owner,375000
+Hyundai,95000,Petrol,First Owner,550000
+Skoda,11000,Petrol,First Owner,645000
+Mercedes-Benz,18000,Petrol,First Owner,2550000
+Maruti,46100,Petrol,First Owner,599000
+Mercedes-Benz,16000,Petrol,First Owner,2700000
+Honda,18000,Petrol,First Owner,875000
+Toyota,9654,Petrol,First Owner,894999
+Maruti,11000,Petrol,First Owner,175000
+Maruti,24300,Petrol,First Owner,340000
+Toyota,42163,Diesel,Second Owner,1525000
+Tata,8000,Diesel,First Owner,1025000
+BMW,30000,Diesel,First Owner,2150000
+Toyota,41000,Petrol,First Owner,1900000
+BMW,12000,Diesel,First Owner,2900000
+Toyota,71000,Petrol,First Owner,450000
+Maruti,20000,Petrol,First Owner,850000
+Volvo,30000,Petrol,First Owner,10000000
+Volkswagen,100000,Diesel,Second Owner,300000
+Ford,9500,Petrol,First Owner,575000
+Ford,120000,Diesel,First Owner,160000
+Maruti,36600,Petrol,First Owner,515000
+Maruti,50000,Petrol,Second Owner,390000
+Hyundai,14000,Petrol,Second Owner,550000
+Maruti,40000,Petrol,Second Owner,40000
+Maruti,120000,Diesel,First Owner,220000
+Hyundai,70000,Petrol,First Owner,425000
+Volkswagen,13000,Petrol,First Owner,480000
+Hyundai,60000,Petrol,Second Owner,400000
+Maruti,35000,Petrol,First Owner,487000
+Hyundai,44000,Petrol,Second Owner,386000
+Honda,120000,Petrol,Second Owner,100000
+Toyota,60000,Diesel,First Owner,300000
+Daewoo,60000,Petrol,First Owner,100000
+Toyota,30000,Diesel,Second Owner,1750000
+Mahindra,15000,Petrol,Second Owner,450000
+Tata,90000,Diesel,First Owner,490000
+Honda,47000,Petrol,Second Owner,345000
+Maruti,90000,Petrol,First Owner,85000
+Maruti,120600,Petrol,Second Owner,215000
+Hyundai,100000,Petrol,Third Owner,320000
+Maruti,60000,Petrol,Second Owner,459999
+Hyundai,86000,Petrol,First Owner,65000
+Hyundai,5000,Petrol,First Owner,720000
+Maruti,37000,Diesel,First Owner,800000
+Tata,14000,Petrol,First Owner,520000
+Maruti,70000,Diesel,First Owner,580000
+Toyota,120000,Diesel,First Owner,235000
+Honda,50000,Petrol,First Owner,600000
+Honda,60000,Petrol,Second Owner,290000
+Maruti,50000,CNG,First Owner,360000
+Maruti,50000,Petrol,First Owner,550000
+Hyundai,70000,Petrol,First Owner,375000
+Maruti,90000,Petrol,Second Owner,40000
+Maruti,35000,Petrol,First Owner,420000
+Maruti,20000,Petrol,First Owner,550000
+Maruti,20000,Petrol,First Owner,270000
+Maruti,7800,Petrol,First Owner,700000
+Maruti,20000,Petrol,First Owner,500000
+Tata,15000,Diesel,First Owner,1250000
+Hyundai,31377,Petrol,Second Owner,320000
+Maruti,50000,Diesel,First Owner,700000
+Maruti,60000,Petrol,First Owner,290000
+Toyota,100000,Petrol,First Owner,550000
+Honda,60000,Petrol,First Owner,265000
+Maruti,5000,Petrol,First Owner,830000
+Tata,60000,Diesel,First Owner,800000
+Maruti,25000,Petrol,Second Owner,160000
+Renault,30000,Petrol,First Owner,335000
+Datsun,80000,Petrol,Second Owner,329000
+Maruti,75000,Diesel,First Owner,775000
+Hyundai,32000,Petrol,First Owner,524000
+Maruti,40000,Petrol,First Owner,245000
+Hyundai,93000,Petrol,Second Owner,275000
+Tata,60000,Petrol,First Owner,520000
+Maruti,120000,Petrol,Second Owner,130000
+Nissan,37000,Petrol,First Owner,550000
+Ford,15000,Petrol,First Owner,910000
+Nissan,80000,Petrol,First Owner,300000
+Maruti,140000,Petrol,First Owner,350000
+Mahindra,70000,Diesel,First Owner,900000
+Mahindra,120000,Diesel,Second Owner,300000
+Maruti,110000,Diesel,Second Owner,250000
+Hyundai,37000,Diesel,First Owner,1100000
+Renault,44000,Petrol,First Owner,270000
+Maruti,80000,Diesel,First Owner,640000
+Mahindra,125000,Diesel,First Owner,650000
+Maruti,13500,Petrol,First Owner,409999
+Hyundai,75000,Petrol,First Owner,165000
+Hyundai,120000,Petrol,Second Owner,80000
+Mahindra,120000,Diesel,First Owner,535000
+Toyota,70000,Diesel,First Owner,700000
+Maruti,70000,Diesel,First Owner,550000
+Honda,15000,Petrol,First Owner,680000
+Hyundai,53000,Petrol,Second Owner,200000
+Maruti,120000,Diesel,Second Owner,500000
+Maruti,70000,Diesel,First Owner,1000000
+Hyundai,120000,Petrol,Second Owner,110000
+Hyundai,100000,Petrol,Second Owner,320000
+Tata,110000,Diesel,Second Owner,75000
+Maruti,100000,Petrol,First Owner,350000
+Tata,162500,Diesel,First Owner,170000
+Hyundai,39000,Diesel,First Owner,800000
+Maruti,75000,Diesel,First Owner,500000
+Tata,50000,Diesel,First Owner,1380000
+Mahindra,40000,Diesel,First Owner,1300000
+Hyundai,92500,Diesel,First Owner,530000
+Maruti,158000,Diesel,First Owner,360000
+Maruti,120000,Diesel,First Owner,310000
+Honda,50000,Diesel,Second Owner,725000
+Maruti,110000,Diesel,First Owner,340000
+Hyundai,2000,Diesel,Second Owner,550000
+Toyota,181000,Diesel,Second Owner,1150000
+Tata,70000,Diesel,First Owner,380000
+Nissan,90000,Petrol,Second Owner,350000
+Hyundai,2000,Petrol,First Owner,610000
+Maruti,20000,Petrol,First Owner,525000
+Toyota,120000,Diesel,First Owner,480000
+Mahindra,35000,Diesel,First Owner,780000
+Maruti,193000,Diesel,First Owner,320000
+Maruti,80000,Petrol,First Owner,375000
+Datsun,40000,Petrol,First Owner,300000
+Hyundai,70000,Diesel,Fourth & Above Owner,500000
+Mahindra,122358,Diesel,First Owner,404000
+Tata,75000,Diesel,First Owner,500000
+Tata,120000,Diesel,First Owner,350000
+Tata,40000,Petrol,First Owner,380000
+Hyundai,95200,Petrol,Third Owner,114999
+Honda,33033,Petrol,First Owner,335000
+Hyundai,63063,Petrol,First Owner,465000
+Tata,60000,Diesel,First Owner,290000
+Maruti,45000,Petrol,Second Owner,110000
+Tata,80000,Diesel,Third Owner,450000
+Mahindra,170000,Diesel,Second Owner,400000
+Mahindra,207890,Diesel,Second Owner,210000
+Mercedes-Benz,7976,Diesel,First Owner,4600000
+Maruti,35000,Petrol,First Owner,220000
+Hyundai,35000,Petrol,First Owner,450000
+Hyundai,35000,Petrol,First Owner,450000
+Hyundai,50000,Petrol,First Owner,290000
+Maruti,20000,Petrol,First Owner,520000
+Hyundai,20000,Petrol,First Owner,265000
+Maruti,50000,Petrol,Second Owner,330000
+Maruti,50000,Petrol,Second Owner,330000
+Mahindra,120000,Diesel,First Owner,509999
+Hyundai,70000,Petrol,First Owner,500000
+Hyundai,50000,Petrol,First Owner,525000
+Maruti,16500,Petrol,First Owner,675000
+Hyundai,70000,Petrol,First Owner,300000
+Maruti,99361,Petrol,Second Owner,90000
+Maruti,25000,Diesel,First Owner,650000
+Maruti,70000,Petrol,Second Owner,409000
+Hyundai,80000,Diesel,Second Owner,395000
+Maruti,70000,Petrol,Second Owner,215000
+Maruti,70000,Petrol,Second Owner,400000
+Chevrolet,60000,Petrol,Third Owner,120000
+Tata,10000,Petrol,First Owner,645000
+Maruti,80000,Petrol,First Owner,81000
+Honda,30000,Diesel,First Owner,1300000
+Honda,33000,Diesel,First Owner,1250000
+Maruti,90000,Petrol,Third Owner,535000
+Nissan,80100,Diesel,Second Owner,555000
+Honda,120000,Petrol,First Owner,725000
+Mahindra,10000,Diesel,Third Owner,300000
+Renault,40000,Petrol,First Owner,229999
+Toyota,160000,Diesel,Second Owner,800000
+Maruti,47000,Petrol,First Owner,409999
+Hyundai,25000,Diesel,First Owner,1210000
+Tata,26000,Petrol,First Owner,400000
+Hyundai,29000,Diesel,First Owner,520000
+Maruti,50000,Petrol,First Owner,650000
+Maruti,58000,Petrol,Third Owner,325000
+Maruti,120000,Petrol,First Owner,420000
+Maruti,50000,Petrol,First Owner,400000
+Hyundai,80000,Petrol,Fourth & Above Owner,254999
+Maruti,60000,Petrol,Fourth & Above Owner,65000
+Maruti,36000,Petrol,First Owner,351000
+Toyota,120000,Diesel,Third Owner,404000
+Maruti,185000,Diesel,Third Owner,185000
+Nissan,50000,Diesel,First Owner,250000
+Maruti,100000,Petrol,Fourth & Above Owner,60000
+Hyundai,50000,Petrol,Second Owner,500000
+Maruti,80000,Petrol,Second Owner,85000
+Hyundai,60000,Petrol,Second Owner,85000
+Maruti,80000,Petrol,Fourth & Above Owner,85000
+Maruti,90000,Diesel,Fourth & Above Owner,265000
+Maruti,162000,Petrol,Second Owner,130000
+Maruti,110000,Diesel,Third Owner,480000
+Maruti,120000,Diesel,Third Owner,170000
+Nissan,45000,Diesel,First Owner,275000
+Maruti,90000,Petrol,Second Owner,89000
+Ford,90000,Diesel,Second Owner,170000
+Mahindra,16500,Petrol,First Owner,1090000
+Hyundai,67000,Diesel,First Owner,1100000
+Maruti,52000,Petrol,First Owner,610000
+Datsun,40000,Petrol,First Owner,335000
+Hyundai,40000,Petrol,First Owner,434999
+Toyota,35000,Diesel,First Owner,3000000
+Renault,13000,Petrol,First Owner,390000
+Honda,40000,Petrol,First Owner,325000
+Volkswagen,10000,Petrol,First Owner,640000
+Nissan,9000,Petrol,First Owner,450000
+Toyota,70000,Diesel,Second Owner,400000
+Hyundai,60000,Petrol,First Owner,215000
+Renault,40000,Diesel,First Owner,570000
+Mahindra,93000,Diesel,First Owner,680000
+Toyota,80000,Diesel,Fourth & Above Owner,325000
+Tata,50000,Petrol,Second Owner,150000
+Hyundai,68000,Petrol,First Owner,690000
+Mercedes-Benz,25000,Diesel,First Owner,1550000
+Tata,18000,Petrol,First Owner,64000
+Nissan,120000,Diesel,First Owner,250000
+Maruti,35000,Petrol,First Owner,65000
+Maruti,60000,Diesel,Second Owner,550000
+Hyundai,70000,Petrol,Fourth & Above Owner,140000
+Renault,30000,Petrol,First Owner,300000
+Volkswagen,70000,Petrol,First Owner,800000
+Jaguar,9000,Diesel,First Owner,2625000
+Lexus,20000,Petrol,First Owner,5150000
+Jaguar,45000,Diesel,First Owner,3200000
+Tata,110000,Diesel,First Owner,503000
+Volvo,20000,Diesel,First Owner,3800000
+Toyota,68089,Petrol,First Owner,2000000
+Maruti,58343,Petrol,First Owner,225000
+Maruti,38817,Diesel,First Owner,740000
+Honda,56494,Petrol,First Owner,550000
+Toyota,79328,Diesel,Second Owner,750000
+Maruti,5621,Petrol,First Owner,650000
+Toyota,25538,Petrol,First Owner,625000
+Maruti,69779,Petrol,First Owner,600000
+Hyundai,56290,Diesel,First Owner,450000
+BMW,7500,Diesel,First Owner,5400000
+BMW,8500,Diesel,First Owner,5500000
+Honda,7032,Petrol,First Owner,779000
+Skoda,11000,Petrol,First Owner,645000
+Volvo,2000,Diesel,First Owner,2475000
+Hyundai,106000,Petrol,Third Owner,150000
+Toyota,162000,Diesel,Third Owner,265000
+Honda,120000,Petrol,Second Owner,500000
+Maruti,90000,Diesel,First Owner,480000
+Hyundai,70000,Diesel,Third Owner,535000
+Toyota,240000,Diesel,Third Owner,250000
+Maruti,100000,Diesel,Second Owner,300000
+Hyundai,214000,Petrol,Second Owner,340000
+Hyundai,214000,Diesel,Second Owner,340000
+Maruti,50000,Petrol,First Owner,240000
+Honda,1000,Petrol,First Owner,1085000
+Maruti,19000,Diesel,First Owner,750000
+Tata,265000,Diesel,Second Owner,95000
+Maruti,35000,CNG,First Owner,409999
+Maruti,80000,Petrol,Second Owner,215000
+Mahindra,50000,Diesel,First Owner,1290000
+Maruti,80000,Petrol,First Owner,150000
+Hyundai,50000,Petrol,Second Owner,219000
+Tata,100000,Petrol,First Owner,325000
+Maruti,120000,Petrol,Second Owner,260000
+Jaguar,9000,Diesel,First Owner,2625000
+Lexus,20000,Petrol,First Owner,5150000
+Jaguar,45000,Diesel,First Owner,3200000
+Tata,110000,Diesel,First Owner,503000
+Volvo,20000,Diesel,First Owner,3800000
+Toyota,68089,Petrol,First Owner,2000000
+Maruti,58343,Petrol,First Owner,225000
+Maruti,38817,Diesel,First Owner,740000
+Honda,56494,Petrol,First Owner,550000
+Toyota,79328,Diesel,Second Owner,750000
+Maruti,5621,Petrol,First Owner,650000
+Toyota,25538,Petrol,First Owner,625000
+Maruti,69779,Petrol,First Owner,600000
+Hyundai,56290,Diesel,First Owner,450000
+BMW,7500,Diesel,First Owner,5400000
+BMW,8500,Diesel,First Owner,5500000
+Honda,7032,Petrol,First Owner,779000
+Skoda,11000,Petrol,First Owner,645000
+Volvo,2000,Diesel,First Owner,2475000
+Honda,40000,Diesel,First Owner,700000
+Hyundai,45000,Diesel,First Owner,950000
+Maruti,80000,Petrol,Second Owner,160000
+Hyundai,135000,Diesel,Second Owner,409999
+Toyota,120000,Diesel,Second Owner,840000
+Toyota,67000,Diesel,First Owner,450000
+Maruti,50000,Diesel,First Owner,900000
+Toyota,134000,Diesel,Second Owner,570000
+Nissan,110000,Diesel,Second Owner,254999
+Maruti,40000,Petrol,First Owner,130000
+Maruti,120000,Diesel,Second Owner,530000
+Volkswagen,110000,Diesel,Second Owner,520000
+Mahindra,170000,Diesel,Second Owner,229999
+Maruti,80000,Petrol,Second Owner,81000
+Maruti,47000,Diesel,First Owner,600000
+Hyundai,93000,Petrol,First Owner,409999
+Maruti,70000,Petrol,Second Owner,120000
+Maruti,50000,Petrol,First Owner,320000
+Ford,70000,Diesel,First Owner,292000
+Tata,80000,Diesel,First Owner,390000
+Ford,44000,Petrol,First Owner,550000
+Maruti,25000,Petrol,First Owner,385000
+Hyundai,25000,Petrol,First Owner,800000
+Maruti,10000,Petrol,First Owner,675000
+Tata,50000,Diesel,First Owner,1525000
+Ford,30000,Diesel,First Owner,950000
+Hyundai,50000,Diesel,Second Owner,610000
+Hyundai,120000,Diesel,First Owner,525000
+Honda,40000,Diesel,First Owner,700000
+Mahindra,80000,Diesel,First Owner,375000
+Nissan,90000,Diesel,First Owner,580000
+Maruti,50000,Petrol,Second Owner,434999
+Datsun,2136,Petrol,First Owner,350000
+Toyota,250000,Diesel,First Owner,730000
+Hyundai,35000,Petrol,First Owner,600000
+Toyota,120000,Diesel,First Owner,1050000
+Maruti,70000,Diesel,First Owner,735000
+Renault,18000,Diesel,First Owner,1050000
+Chevrolet,110000,Diesel,Second Owner,420000
+Maruti,60000,Diesel,First Owner,800000
+Toyota,60000,Diesel,First Owner,2000000
+Maruti,147000,Diesel,Second Owner,600000
+Toyota,130000,Diesel,First Owner,1900000
+Chevrolet,99500,Diesel,Third Owner,500000
+Tata,110000,Diesel,Second Owner,200000
+Nissan,35000,Petrol,First Owner,370000
+Hyundai,110000,Diesel,Second Owner,260000
+Mahindra,100000,Diesel,First Owner,280000
+Maruti,21000,Petrol,First Owner,610000
+Ford,60000,Diesel,Second Owner,300000
+Tata,40000,Diesel,First Owner,140000
+Hyundai,50000,Petrol,First Owner,229999
+Maruti,65000,Petrol,Second Owner,200000
+Maruti,80000,Petrol,First Owner,200000
+Hyundai,119000,Diesel,First Owner,560000
+Maruti,80000,Diesel,First Owner,750000
+Maruti,90000,Diesel,First Owner,585000
+Hyundai,20000,Petrol,First Owner,760000
+Maruti,80000,Diesel,Second Owner,430000
+Mahindra,44665,Diesel,First Owner,480000
+Kia,10000,Diesel,First Owner,643000
+Hyundai,60000,Petrol,First Owner,500000
+Honda,22000,Petrol,First Owner,425000
+Maruti,25000,Petrol,First Owner,250000
+Maruti,70000,Diesel,First Owner,285000
+Maruti,123000,Petrol,Third Owner,160000
+Volkswagen,70000,Diesel,Second Owner,250000
+Chevrolet,70000,Petrol,Second Owner,170000
+Toyota,45000,Diesel,First Owner,409999
+Hyundai,40000,Petrol,First Owner,400000
+Maruti,30000,Diesel,First Owner,700000
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,

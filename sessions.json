@@ -1,0 +1,58 @@
+{
+  "76211334-f67b-4aeb-bfa3-6895e8797dc5": {
+    "user_id": 12,
+    "title": "Introduction and Greeting",
+    "created_at": "2025-07-22T09:34:59.611727",
+    "message_count": 12,
+    "last_updated": "2025-07-22T09:36:49.455858"
+  },
+  "43a166b0-3718-420f-84c2-ecd692e415dc": {
+    "user_id": 12,
+    "title": "Bentley Make Names Inquiry",
+    "created_at": "2025-07-22T09:45:32.644680",
+    "message_count": 6,
+    "last_updated": "2025-07-22T09:46:29.153192"
+  },
+  "12f0a8bb-b04a-4e30-b2d3-8c29450e500f": {
+    "user_id": 12,
+    "title": "Quick Sort C Code",
+    "created_at": "2025-07-22T09:47:27.553352",
+    "message_count": 2,
+    "last_updated": "2025-07-22T09:47:31.987650"
+  },
+  "0817fe76-52d6-4dbc-9cc7-3444e887735e": {
+    "user_id": 12,
+    "title": "HPCL Revenue Query",
+    "created_at": "2025-07-22T09:50:55.763174",
+    "message_count": 8,
+    "last_updated": "2025-07-22T09:52:14.698835"
+  },
+  "b26e05ce-5c44-418f-8720-9eccf108b451": {
+    "user_id": 1,
+    "title": "Wimbledon 2025 Winner Inquiry",
+    "created_at": "2025-07-22T12:34:52.806710",
+    "message_count": 2,
+    "last_updated": "2025-07-22T12:34:56.729075"
+  },
+  "ec2db457-8f99-47ff-a958-4522372a0298": {
+    "user_id": 1,
+    "title": "Album Table Row Count",
+    "created_at": "2025-07-22T15:38:39.964310",
+    "message_count": 2,
+    "last_updated": "2025-07-22T15:38:43.101215"
+  },
+  "dde7fee6-064d-48b0-b835-7012c130f737": {
+    "user_id": 1,
+    "title": "Introduction and Greeting",
+    "created_at": "2025-07-22T16:41:22.552388",
+    "message_count": 4,
+    "last_updated": "2025-07-22T16:41:37.548606"
+  },
+  "355db6b2-2e87-46c6-94eb-ce98a701b132": {
+    "user_id": 1,
+    "title": "Albums Table Row Count",
+    "created_at": "2025-07-22T16:51:08.867656",
+    "message_count": 4,
+    "last_updated": "2025-07-22T16:51:27.894836"
+  }
+}

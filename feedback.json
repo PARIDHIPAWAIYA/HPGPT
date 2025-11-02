@@ -1,0 +1,37 @@
+{
+  "76211334-f67b-4aeb-bfa3-6895e8797dc5": [
+    {
+      "feedback_id": "cfa99113-9bf1-461e-8266-014764447f61",
+      "session_id": "76211334-f67b-4aeb-bfa3-6895e8797dc5",
+      "message_content": "Hindustan Petroleum Corporation Limited (HPCL) is a major Indian public sector undertaking (PSU) operating in the petroleum and natural gas industry. Here's a summary of what HPCL is:   Overview: HPCL is an integrated energy company involved in refining crude oil, and marketing petroleum products.   Activities: Their primary activities include refining, marketing, and the exploration and production of petroleum products.   Industries Served: HPCL's products reach a wide array of industries, incl",
+      "feedback_type": "positive",
+      "agent_type": "general",
+      "answer_mode": "detailed",
+      "timestamp": "2025-07-22T04:06:02.381Z",
+      "message_length": 866,
+      "created_at": "2025-07-22T09:36:02.384865"
+    },
+    {
+      "feedback_id": "624d4507-ef85-44c5-8ff7-96996a450416",
+      "session_id": "76211334-f67b-4aeb-bfa3-6895e8797dc5",
+      "message_content": "I'm doing well, thanks for asking. I'm here to help with any questions or topics you'd like to discuss. How about you, how's your day going?",
+      "feedback_type": "positive",
+      "agent_type": "general",
+      "answer_mode": "specific",
+      "timestamp": "2025-07-22T04:07:01.733Z",
+      "message_length": 140,
+      "created_at": "2025-07-22T09:37:01.734892"
+    },
+    {
+      "feedback_id": "14b3327e-3f3a-452e-b25d-d55b107da577",
+      "session_id": "76211334-f67b-4aeb-bfa3-6895e8797dc5",
+      "message_content": "I'm doing well, thanks for asking. I'm here to help with any questions or topics you'd like to discuss. How about you, how's your day going?",
+      "feedback_type": "positive",
+      "agent_type": "general",
+      "answer_mode": "specific",
+      "timestamp": "2025-07-22T04:07:51.358Z",
+      "message_length": 140,
+      "created_at": "2025-07-22T09:37:51.359255"
+    }
+  ]
+}
